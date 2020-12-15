@@ -1,0 +1,7 @@
+name: External Links Extras
+type: module
+description: Adds extra functionality to the External Links module.
+core: 8.x
+package: User interface
+dependencies:
+  - extlink:extlink
